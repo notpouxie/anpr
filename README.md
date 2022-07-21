@@ -1,13 +1,15 @@
-# Выпускная квалификационная работа студента гр. 931801 ИПМКН ТГУ Шинкарева Александра
-###### Система автоматического распознавания номерных знаков
+# Automatic Vehicle Number Plate Recognition System
+### Система автоматического распознавания номерных знаков
+###### Developed as a graduation work by Aleksandr Shinkarev, student of IAMCS TSU, group 931801
+###### Выпускная квалификационная работа студента гр. 931801 ИПМКН ТГУ Шинкарева Александра
 
-## Шаги:
+## Steps:
 
-**Шаг 1.** Клонируйте этот репозиторий: https://github.com/notpouxie/anpr
+**Step 1.** Clone this repository: https://github.com/notpouxie/anpr
 
-**Шаг 2.** Активируйте виртуальную среду разработки
+**Step 2.** Activate your Python virtual environment
 
-**Шаг 3.** Откройте файл ВКР.ipynb 
+**Step 3.** Open ВКР.ipynb 
 
-**Шаг 4.** Последовательно выполните все блоки
+**Step 4.** Run all the blocks in the notebook consecutively
 
